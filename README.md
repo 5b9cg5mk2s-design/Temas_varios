@@ -1,4 +1,4 @@
-# Laboratorio # [Número]
+# Laboratorio Temas varios
 
 **Fecha:** 12/10/2026
 
